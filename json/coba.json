@@ -1,0 +1,10 @@
+{
+  "nama": "Ichwan Latif Fajari",
+  "umur": 22,
+  "status-nikah": false,
+  "hobi": ["Coding", "Gaming"],
+  "saudara": {
+    "adik": "Abdul Ghoni",
+    "umur": 11
+  }
+}
